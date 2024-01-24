@@ -7,7 +7,7 @@
 
  - 🌱 I’m learning **Spring Framework**.
  - 📫 How to reach me **mucyoh32@gmail.com**
- - ⚡ Fun fact :  **I like playing table tennis**
+ - ⚡ Fun fact:  **I can do 100 push-ups.**
 
 
 
